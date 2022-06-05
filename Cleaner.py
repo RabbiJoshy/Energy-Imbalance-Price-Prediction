@@ -16,3 +16,5 @@ x = createmeteo('With_Features/balance_2018', 'Meteorological Data/Daily/Amsterd
 a = createmeteo('With_Features/imbalance_2018', 'Meteorological Data/Daily/Amsterdam2018Daily.csv', 'Daily', 'imbalance', '2018')
 d = createmeteo('With_Features/balance_2019', 'Meteorological Data/Daily/Amsterdam2019Daily.csv', 'Daily', 'balance', '2019')
 b = createmeteo('With_Features/imbalance_2019', 'Meteorological Data/Daily/Amsterdam2019Daily.csv', 'Daily', 'imbalance', '2019')
+
+#  USe better variable names
