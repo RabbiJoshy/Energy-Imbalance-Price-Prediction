@@ -1,6 +1,5 @@
 from Utils.EvalUtils import *
 #TODO - change the prediction window, add ENTSOE features, add meteo features?, add 2017, add meta-features, improve the context models
-#TODO I GUESS I COULD USE 2018 as the test becsause of global warming, so that summer doesnt perform better than winter year on year
 #TODO 7/06 make it so that the contexts are unsupervsied, try out another context
 
 #should i get the predictions to actually come from the closeness of tbe model in each case, does this even work
